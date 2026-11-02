@@ -107,8 +107,4 @@ MIT, per [`LICENSE`](LICENSE). Task bundles, datasets, and trajectories produced
 
 Ethara.AI on GitHub: <https://github.com/Ethara-Ai>. Benchmark-integrity and vulnerability disclosure: `security@ethara.ai`, per [`SECURITY.md`](SECURITY.md). Contributions: [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
----
-
-## Copyright
-
 Copyright (c) 2026 Green Rider Technology LLP (Ethara AI). All rights reserved.
